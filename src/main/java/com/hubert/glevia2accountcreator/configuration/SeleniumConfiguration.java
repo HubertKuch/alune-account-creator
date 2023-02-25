@@ -6,9 +6,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Data
 @Configuration
-@ConfigurationProperties(prefix = "recaptcha")
-public class RecaptchaConfiguration {
-    private String siteKey;
-    private String apiKey;
-    private String action;
+@ConfigurationProperties(prefix = "selenium")
+public class SeleniumConfiguration {
+    private String driver;
 }

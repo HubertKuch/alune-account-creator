@@ -1,7 +1,5 @@
 imap:
   host: ssl0.ovh.net
   ssl: true
-recaptcha:
-  api-key: 80415c017f10ad6fd9cc0e05caf97faf
-  site-key: 6Ldz55UhAAAAAFvSPqW7rry5lAdAedbcBdPlTuxQ
-  action: L
+selenium:
+  driver: /home/hubert/Downloads/chromedriver
