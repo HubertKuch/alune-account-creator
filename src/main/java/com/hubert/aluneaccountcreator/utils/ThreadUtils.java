@@ -1,4 +1,4 @@
-package com.hubert.glevia2accountcreator.utils;
+package com.hubert.aluneaccountcreator.utils;
 
 public class ThreadUtils {
     public static void delay(Long millis) {

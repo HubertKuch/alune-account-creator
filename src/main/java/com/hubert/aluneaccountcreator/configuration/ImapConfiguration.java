@@ -1,4 +1,4 @@
-package com.hubert.glevia2accountcreator.configuration;
+package com.hubert.aluneaccountcreator.configuration;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

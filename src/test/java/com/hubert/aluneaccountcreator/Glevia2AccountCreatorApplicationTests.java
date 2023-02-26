@@ -1,4 +1,4 @@
-package com.hubert.glevia2accountcreator;
+package com.hubert.aluneaccountcreator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

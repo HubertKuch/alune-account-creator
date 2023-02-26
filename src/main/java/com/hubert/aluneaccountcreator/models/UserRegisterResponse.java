@@ -1,4 +1,4 @@
-package com.hubert.glevia2accountcreator.models;
+package com.hubert.aluneaccountcreator.models;
 
 public record UserRegisterResponse(String login, Boolean confirmationNeeded, String pin) {
 }
